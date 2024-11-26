@@ -1,0 +1,43 @@
+#fa{
+    background-color: orange;
+    text-align: center;
+}
+#spo{
+    background-color: green;
+    text-align: center;
+}
+#you{
+    background-color: blue;
+    text-align: center;
+}
+#twi{
+    background-color: pink;
+    text-align: center;
+}
+#ins{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+a{
+    color: white;
+}
+#Band{
+    font-family: 'Ga Maamli', sans-serif;
+    background-color: cadetblue;
+}
+#estado{
+    background-color: brown;
+}
+#muni{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    font-family: cursive;
+}
+#mino{
+    background-color: beige;
+}
+#sow{
+    font-family: monospace;
+}
